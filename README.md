@@ -3,8 +3,7 @@
 <p align="center">
   <a href="https://charlesassuncao.tech/">Blog</a> •
   <a href="https://www.linkedin.com/in/charlesassuncao/">LinkedIn</a> •
-  <a href="https://twitter.com/assuncaocharles">Twitter</a> •
-  <a href="https://github.com/assuncaocharles/README">Work README</a>
+  <a href="https://twitter.com/assuncaocharles">Twitter</a>
 </p>
 
 ---
