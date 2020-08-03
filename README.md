@@ -13,12 +13,12 @@ I'm a Software Engineer at @Microsoft focusing in front-end development.
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assuncaocharles&hide=html&layout=compact&theme=onedark" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=assuncaocharles&theme=onedark"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assuncaocharles&hide=html&layout=compact" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=assuncaocharles"/></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=assuncaocharles&repo=fluentui&theme=onedark" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=assuncaocharles&repo=ngx-indexed-db&theme=onedark" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=assuncaocharles&repo=fluentui" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=assuncaocharles&repo=ngx-indexed-db" /></td>
   </tr>  
 </table>
 </center>
