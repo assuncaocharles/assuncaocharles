@@ -16,8 +16,6 @@ I'm a Software Engineer at [@Microsoft](https://github.com/microsoft/) focused i
 - 🎯 2020 Goals: Contribute more to Open Source projects
 - 🌚 Fun fact: I worked as magician before development 🧙
 --- 
-
----
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Almost a decade review](https://charlesassuncao.tech/almost-a-decade-review/)
