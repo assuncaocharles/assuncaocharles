@@ -7,8 +7,26 @@
 </p>
 
 ---
+I'm a Software Engineer at [@Microsoft](https://github.com/microsoft/) focused in front-end development to power Microsoft Teams. For long time I had opportunity to share my knowlodge as Microsoft Student Partner so now I am doing my best sharing it trough open source projects and blog posts 😃
 
-I'm a Software Engineer at @Microsoft focusing in front-end development. 
+
+- 🔭 I’m currently working on a [Fluent UI][https://www.microsoft.com/design/fluent/#/]!
+- 🌱 I’m currently learning about a11y and some other stuff
+- 🙇 I’m looking to collaborate with other content creators
+- 🎯 2020 Goals: Contribute more to Open Source projects
+- 🌚 Fun fact: I worked as magician before development 🧙
+--- 
+
+---
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Almost a decade review](https://charlesassuncao.tech/almost-a-decade-review/)
+- [Building and publishing your first NPM package](https://charlesassuncao.tech/building-and-publishing-your-first-npm-package/)
+- [Async/await can still surprise you... A LOT!](https://charlesassuncao.tech/async-await-can-still-surprise-you-a-lot/)
+- [Leadership, a responsibility](https://charlesassuncao.tech/leadership-an-responsibility/)
+- [The code review we deserve](https://charlesassuncao.tech/the-code-review-we-deserve/)
+<!-- BLOG-POST-LIST:END -->
+---
 
 <center>
 <table>
