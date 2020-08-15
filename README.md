@@ -1,13 +1,11 @@
 <h3 align="center">Hey, I'm Charles Assuncao. 🤟</h3>
 
-[![Charles Assunção's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/assuncaocharles)
-
 <p align="center">
   <a href="https://charlesassuncao.tech/">Blog</a> •
   <a href="https://www.linkedin.com/in/charlesassuncao/">LinkedIn</a> •
   <a href="https://twitter.com/assuncaocharles">Twitter</a>
   <a href="https://dev.to/assuncaocharles">
-      <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Charles Assunção's DEV Profile" height="30" width="30">
+      <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Charles Assunção's DEV Profile" >
   </a>
         
 </p>
