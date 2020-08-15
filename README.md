@@ -1,5 +1,7 @@
 <h3 align="center">Hey, I'm Charles Assuncao. 🤟</h3>
 
+[![Charles Assunção's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/assuncaocharles)
+
 <p align="center">
   <a href="https://charlesassuncao.tech/">Blog</a> •
   <a href="https://www.linkedin.com/in/charlesassuncao/">LinkedIn</a> •
@@ -18,6 +20,7 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
 --- 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Underrated array methods](https://dev.to/assuncaocharles/underrated-array-methods-2mdj)
 - [Almost a decade review](https://charlesassuncao.tech/almost-a-decade-review/)
 - [Building and publishing your first NPM package](https://charlesassuncao.tech/building-and-publishing-your-first-npm-package/)
 - [Async/await can still surprise you... A LOT!](https://charlesassuncao.tech/async-await-can-still-surprise-you-a-lot/)
