@@ -1,8 +1,10 @@
 <h3 align="center">Hey, I'm Charles Assuncao. 🤟</h3>
 
-<a href="https://dev.to/assuncaocharles">
+<p align="center">
+<a href="https://dev.to/assuncaocharles" >
       <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Charles Assunção's DEV Profile" height="30px" width="30px" >
 </a>
+</p>
 
 <p align="center">
   <a href="https://charlesassuncao.tech/">Blog</a> •
