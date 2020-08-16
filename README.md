@@ -24,6 +24,7 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
 --- 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React.memo(use me wisely)](https://dev.to/assuncaocharles/react-memo-use-me-wisely-m5l)
 - [Underrated array methods](https://dev.to/assuncaocharles/underrated-array-methods-2mdj)
 - [Almost a decade review](https://charlesassuncao.tech/almost-a-decade-review/)
 - [Building and publishing your first NPM package](https://charlesassuncao.tech/building-and-publishing-your-first-npm-package/)
