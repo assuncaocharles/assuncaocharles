@@ -24,6 +24,8 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
 --- 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures as Hooks, a guide: Linked List](https://dev.to/assuncaocharles/data-structures-as-hooks-a-guide-linked-list-2n31)
+- [Powerful Unknown Web APIs](https://dev.to/assuncaocharles/powerful-unknown-web-apis-34ji)
 - [React.memo(use me wisely)](https://dev.to/assuncaocharles/react-memo-use-me-wisely-m5l)
 - [Underrated array methods](https://dev.to/assuncaocharles/underrated-array-methods-2mdj)
 - [Almost a decade review](https://charlesassuncao.tech/almost-a-decade-review/)
