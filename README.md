@@ -24,6 +24,7 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
 --- 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The code review we deserve](https://dev.to/assuncaocharles/the-code-review-we-deserve-36g)
 - [Data Structures as Hooks, a guide: Linked List](https://dev.to/assuncaocharles/data-structures-as-hooks-a-guide-linked-list-2n31)
 - [Powerful Unknown Web APIs](https://dev.to/assuncaocharles/powerful-unknown-web-apis-34ji)
 - [React.memo(use me wisely)](https://dev.to/assuncaocharles/react-memo-use-me-wisely-m5l)
@@ -32,7 +33,6 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
 - [Building and publishing your first NPM package](https://charlesassuncao.tech/building-and-publishing-your-first-npm-package/)
 - [Async/await can still surprise you... A LOT!](https://charlesassuncao.tech/async-await-can-still-surprise-you-a-lot/)
 - [Leadership, a responsibility](https://charlesassuncao.tech/leadership-an-responsibility/)
-- [The code review we deserve](https://charlesassuncao.tech/the-code-review-we-deserve/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
