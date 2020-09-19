@@ -16,7 +16,7 @@
 I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Engineer at [@Microsoft](https://github.com/microsoft/) focused in front-end development to power Microsoft Teams. For long time I had opportunity to share my knowlodge as Microsoft Student Partner so now I am doing my best sharing it trough open source projects and blog posts 😃
 
 
-- 🔭 I’m currently working at [Fluent UI](https://www.microsoft.com/design/fluent/#/)!
+- 🔭 I’m currently working on [Fluent UI](https://www.microsoft.com/design/fluent/#/)!
 - 🌱 I’m currently learning about a11y and some other stuff
 - 🙇 I’m looking to collaborate with other content creators
 - 🎯 2020 Goals: Contribute more to Open Source projects
