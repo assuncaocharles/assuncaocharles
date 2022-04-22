@@ -50,5 +50,5 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
 </center>
 
 <div>
-      ![Snake animation](https://github.com/assuncaocharles/assuncaocharles/blob/output/github-contribution-grid-snake.svg)
+      <img src="https://github.com/assuncaocharles/assuncaocharles/blob/output/github-contribution-grid-snake.svg" />
 </div>
