@@ -48,3 +48,7 @@ I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Eng
   </tr>  
 </table>
 </center>
+
+<div>
+      ![Snake animation](https://github.com/assuncaocharles/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
