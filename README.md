@@ -40,9 +40,3 @@ Brazilian frontend engineer from Belo Horizonte, shipping for the web since 2014
 
 <sub>➜ more at <a href="https://charlesassuncao.tech/#writing">charlesassuncao.tech</a> and <a href="https://dev.to/assuncaocharles">dev.to/assuncaocharles</a></sub>
 
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assuncaocharles/assuncaocharles/output/github-snake-dark.svg">
-  <img alt="Snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/assuncaocharles/assuncaocharles/output/github-snake.svg">
-</picture>
