@@ -1,0 +1,20 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "41 9 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://charlesassuncao.tech/rss.xml"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
