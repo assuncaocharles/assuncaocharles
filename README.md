@@ -1,30 +1,48 @@
-<h3 align="center">Hey, I'm Charles Assuncao. 🤟</h3>
+<a href="https://charlesassuncao.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.jpg">
+    <img alt="Mini low-poly Charles and his westie Bug on a 3D island, saying: oi! welcome to my github" src="./assets/banner-light.jpg">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://charlesassuncao.tech/">Blog</a> •
-  <a href="https://twitter.com/assuncaocharles">Twitter</a>      
+  <a href="https://charlesassuncao.tech">website</a> ·
+  <a href="https://charlesassuncao.tech/#writing">writing</a> ·
+  <a href="https://www.linkedin.com/in/charlesassuncao/">linkedin</a> ·
+  <a href="https://dev.to/assuncaocharles">dev.to</a> ·
+  <a href="https://charlesassuncao.tech/uploads/Charles_Assuncao_CV.pdf">cv</a>
 </p>
 
----
-I'm Brazilian 🇧🇷 based in Prague, Czechia 🇨🇿 working as Software Engineer at [@Microsoft](https://github.com/microsoft/) focused in front-end development to power Microsoft Teams. For long time I had opportunity to share my knowlodge as Microsoft Student Partner so now I am doing my best sharing it trough open source projects and blog posts 😃
+### oi, i'm charles 👋
 
+Brazilian frontend engineer from Belo Horizonte, shipping for the web since 2014. I care about **kind interfaces**: accessible, fast and honest, for the people using them and the people maintaining them next year.
 
-- 🔭 I’m currently working on [Fluent UI](https://www.microsoft.com/design/fluent/#/)!
-- 🌱 I’m currently learning about a11y and some other stuff
-- 🙇 I’m looking to collaborate with other content creators
-- 🎯 2020 Goals: Contribute more to Open Source projects
-- 🌚 Fun fact: I worked as magician before development 🧙
---- 
-### 📕 Latest Blog Posts
+- 🏥 **Now:** Staff Product Engineer at [Moxie](https://www.linkedin.com/company/86900524/), building clinical and business software for 1,500+ aesthetic practices. React, Next.js, GraphQL, Django and AI features in production.
+- 🚀 **Before:** Staff Engineer at [Appcues](https://www.appcues.com) (TypeScript and Vite migrations, a 60% smaller bundle and 4× faster loads), [Fluent UI](https://github.com/microsoft/fluentui) components for Microsoft Teams at Microsoft in Prague, and credit-risk dashboards at Credit Suisse in Warsaw.
+- ♿ **a11y is not optional:** I've built accessibility tooling that gates PRs, and I contribute to [W3C Open UI](https://open-ui.org).
+- 📦 **Open source:** author of [ngx-indexed-db](https://github.com/assuncaocharles/ngx-indexed-db) (IndexedDB for Angular, ~18k weekly downloads) and [react-indexed-db](https://github.com/assuncaocharles/react-indexed-db).
+- 🐶 **Off the clock:** walking Bug the westie, writing about engineering and philosophy, and defending pão de queijo as a valid lunch.
+- 🎩 **Fun fact:** I worked as a magician before I wrote code.
+
+### 🛠️ Toolbox
+
+`TypeScript` `React` `Next.js` `GraphQL` `Django` `Python` `Elixir` `Angular` `design systems` `accessibility` `web performance` `three.js` `LLM features`
+
+### 📕 Latest writing
+
 <!-- BLOG-POST-LIST:START -->
-- [The code review we deserve](https://dev.to/assuncaocharles/the-code-review-we-deserve-36g)
-- [Data Structures as Hooks, a guide: Linked List](https://dev.to/assuncaocharles/data-structures-as-hooks-a-guide-linked-list-2n31)
-- [Powerful Unknown Web APIs](https://dev.to/assuncaocharles/powerful-unknown-web-apis-34ji)
-- [React.memo(use me wisely)](https://dev.to/assuncaocharles/react-memo-use-me-wisely-m5l)
-- [Underrated array methods](https://dev.to/assuncaocharles/underrated-array-methods-2mdj)
-- [Almost a decade review](https://charlesassuncao.tech/almost-a-decade-review/)
-- [Building and publishing your first NPM package](https://charlesassuncao.tech/building-and-publishing-your-first-npm-package/)
-- [Async/await can still surprise you... A LOT!](https://charlesassuncao.tech/async-await-can-still-surprise-you-a-lot/)
-- [Leadership, a responsibility](https://charlesassuncao.tech/leadership-an-responsibility/)
+- [The Engineer in the Age of AI: Why Judgment Is the New Craft](https://charlesassuncao.tech/blog/2026-05-23-the-engineer-in-the-age-of-ai-why-judgment-is-the-new-craft/)
+- [O Engenheiro na Era da IA: Por Que o Julgamento Virou a Nova Moeda](https://charlesassuncao.tech/blog/2026-05-23-o-engenheiro-na-era-da-ia-por-que-o-julgamento-virou-a-nova-moeda/)
+- [Introducing Maestrio: feedback to PR in minutes](https://charlesassuncao.tech/blog/2026-04-25-introducing-maestrio-feedback-to-pr-in-minutes/)
+- [Ler Descartes Hoje: Dúvida, Método e a Coragem de Pensar por Conta Própria](https://charlesassuncao.tech/blog/2025-12-24-ler-descartes-hoje-d%C3%BAvida-m%C3%A9todo-e-a-coragem-de-pensar-por-conta-pr%C3%B3pria/)
+- [Protesto contra as certezas](https://charlesassuncao.tech/blog/2025-11-11-protesto-contra-as-certezas/)
 <!-- BLOG-POST-LIST:END -->
----
+
+<sub>➜ more at <a href="https://charlesassuncao.tech/#writing">charlesassuncao.tech</a> and <a href="https://dev.to/assuncaocharles">dev.to/assuncaocharles</a></sub>
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assuncaocharles/assuncaocharles/output/github-snake-dark.svg">
+  <img alt="Snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/assuncaocharles/assuncaocharles/output/github-snake.svg">
+</picture>
