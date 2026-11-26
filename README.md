@@ -31,8 +31,8 @@ Brazilian frontend engineer from Belo Horizonte, shipping for the web since 2014
 ### 📕 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineer in the Age of AI: Why Judgment Is the New Craft](https://charlesassuncao.tech/blog/2026-05-23-the-engineer-in-the-age-of-ai-why-judgment-is-the-new-craft/)
 - [O Engenheiro na Era da IA: Por Que o Julgamento Virou a Nova Moeda](https://charlesassuncao.tech/blog/2026-05-23-o-engenheiro-na-era-da-ia-por-que-o-julgamento-virou-a-nova-moeda/)
+- [The Engineer in the Age of AI: Why Judgment Is the New Craft](https://charlesassuncao.tech/blog/2026-05-23-the-engineer-in-the-age-of-ai-why-judgment-is-the-new-craft/)
 - [Introducing Maestrio: feedback to PR in minutes](https://charlesassuncao.tech/blog/2026-04-25-introducing-maestrio-feedback-to-pr-in-minutes/)
 - [Ler Descartes Hoje: Dúvida, Método e a Coragem de Pensar por Conta Própria](https://charlesassuncao.tech/blog/2025-12-24-ler-descartes-hoje-d%C3%BAvida-m%C3%A9todo-e-a-coragem-de-pensar-por-conta-pr%C3%B3pria/)
 - [Protesto contra as certezas](https://charlesassuncao.tech/blog/2025-11-11-protesto-contra-as-certezas/)
